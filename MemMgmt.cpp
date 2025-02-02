@@ -1,23 +1,26 @@
-public class MemoryManagement {
-
-    public static void main(String[] args) {
+#include <iostream>
+using namespace std;
+int main() {
     
-        // Allocating memory dynamically
-        int[] arr = new int[3];  
+    int* ptr = new int;  // Allocate memory dynamically for one integer
+    *ptr = 111;  // Assign a value to the allocated memory
 
-        for (int i = 0; i < arr.length; i++) { //Assigning values
-            arr[i] = i * 10;
-        }
+    cout << "Allocation value: " << *ptr << endl;
 
-        System.out.println("Array items:");
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
-        }
-          
-        arr = null;  // Object is now eligible for garbage collection
+    delete ptr;  // Deallocate the memory manually
+    ptr = nullptr;  // Set pointer to nullptr to avoid dangling pointer
 
-        System.gc();  // Java's garbage collector may clean up unreferenced objects
-        System.out.println("Garbage collection");
-        
+    int* arr = new int[4];  // Allocate memory for an array of 4 integers
+    for (int i = 0; i < 4; ++i) { // Assigning values to the array
+        arr[i] = i * 10;
     }
+
+    cout << "Array items:" << endl;  // Displaying array values
+    for (int i = 0; i < 4; ++i) {
+       cout << arr[i] << endl;
+    }
+    
+    delete[] arr;  // Use delete[] to free the array memory deallocation
+
+    return 0;
 }
