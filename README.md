@@ -7,7 +7,7 @@ typsys_scp_closures.js,
 typsys_scp_closures.py.
 
 part-2 includes - 
-for Rust : /Soniya-UC/apl-MSCS-632-M51-task-2/tree/main/rust
+for Rust : 
     rust/src/main.rs,
     rust/benches/my_benchmark.rs (benchmark program to observe any peformance metrics)
 
