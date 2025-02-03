@@ -1,0 +1,12 @@
+/mnt/c/Users/User/Documents/apl-MSCS-632-M51-task-2/rust/target/release/deps/libhalf-97e21f8fef43d591.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs
+
+/mnt/c/Users/User/Documents/apl-MSCS-632-M51-task-2/rust/target/release/deps/libhalf-97e21f8fef43d591.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs
+
+/mnt/c/Users/User/Documents/apl-MSCS-632-M51-task-2/rust/target/release/deps/half-97e21f8fef43d591.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs:
